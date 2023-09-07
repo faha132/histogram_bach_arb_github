@@ -10,7 +10,7 @@ It is written in C++, Files from generated Documentation are also included.
 Based on the PHD thesis of Max Willert.
 
 ## License
-GPL(v3), due to QT being availible with GPLv3 License,
+GPL(v3), due to QT being available with GPLv3 License,
 the programm has to be published with GPLv3 as well.
 
 ## Project status
