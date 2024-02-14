@@ -4,12 +4,13 @@ This Programm was written for my bachelor thesis in computer science.
 It implements a routing scheme for simple histogramms.
 Simple Histogramms are polygons, that can be converted into general graphs.
 Only a subset of all graphs can be converted to histogramms.
+It is written in C++, Files from generated Documentation are also included.
 
 ## Authors and acknowledgment
 Based on the PHD thesis of Max Willert.
 
 ## License
-GPL(v3), due to QT being availible with GPLv3 License,
+GPL(v3), due to QT being available with GPLv3 License,
 the programm has to be published with GPLv3 as well.
 
 ## Project status
