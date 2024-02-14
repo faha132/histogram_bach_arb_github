@@ -1,6 +1,6 @@
 # Histogram_Bach_Arb
 
-![Ansicht bei Programmstart](imgs\gebr_anl1.PNG)
+![Ansicht bei Programmstart](imgs/gebr_anl1.PNG)
 
 This Program was written for my bachelor thesis in computer science.
 It implements a routing scheme for simple histograms.
