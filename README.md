@@ -30,6 +30,6 @@ Windows Updates.
 ## Running the programm
 
 The Program can be run from QT-Creator.
-There is a user manual, in german, in ["algorithm_description/ba_ausarbeitung.pdf"](https://github.com/faha132/histogram_bach_arb_github/blob/main/algorithm_description/ba_ausarbeitung.pdf), pages 10-13 in german.
+There is a user manual, in german, in ["algorithm_description/ba_ausarbeitung.pdf"](https://github.com/faha132/histogram_bach_arb_github/blob/main/algorithm_description/ba_ausarbeitung.pdf), pages 10-13.
 When running the programm, selecting the "gen_data" option, will take some time,
 during which the programm is not responsonding.
