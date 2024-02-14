@@ -1,13 +1,16 @@
-# Histogramm_Bach_Arb
+# Histogram_Bach_Arb
 
-This Programm was written for my bachelor thesis in computer science.
-It implements a routing scheme for simple histogramms.
-Simple Histogramms are polygons, that can be converted into general graphs.
-Only a subset of all graphs can be converted to histogramms.
-It is written in C++, Files from generated Documentation are also included.
+![Ansicht bei Programmstart](imgs\gebr_anl1.PNG)
+
+This Program was written for my bachelor thesis in computer science.
+It implements a routing scheme for simple histograms.
+Simple histograms are polygons, that can be converted into general graphs.
+Only a subset of all graphs can be converted to histograms.
+It is written in C++, files from generated [Documentation](https://faha132.github.io/histogram_bach_arb_github/) are also included.
 
 ## Authors and acknowledgment
 Based on the PHD thesis of Max Willert.
+["algorithm_description/Publikation_Willert.pdf"](https://github.com/faha132/histogram_bach_arb_github/blob/main/algorithm_description/Publikation_Willert.pdf) pages 21 - 31.
 
 ## License
 GPL(v3), due to QT being available with GPLv3 License,
@@ -26,7 +29,7 @@ Windows Updates.
 
 ## Running the programm
 
-The Programm can be run from QT-Creator.
-There is a user manual, in german, in "algorithm_describtion/ba_ausarbeitung.pdf".
+The Program can be run from QT-Creator.
+There is a user manual, in german, in ["algorithm_description/ba_ausarbeitung.pdf"](https://github.com/faha132/histogram_bach_arb_github/blob/main/algorithm_description/ba_ausarbeitung.pdf), pages 10-13 in german.
 When running the programm, selecting the "gen_data" option, will take some time,
 during which the programm is not responsonding.
